@@ -1,6 +1,6 @@
 Hi there, I'm Konduru Harshavardhan 👋
 <p align="left">
-<a href="[Link to your deployed portfolio]">
+<a href="https://h-k18.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white"  alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/harshavardhan-konduru-a5428b217/">

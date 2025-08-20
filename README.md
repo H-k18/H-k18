@@ -28,7 +28,9 @@ I'm a passionate and dedicated M.Tech student in Computer Science at the Malaviy
 
 </td>
 <td valign="top" width="40%">
-
+<p align="right">
+<img src="profileforwebsites.jpeg" alt="Konduru Harshavardhan" width="150px"/>
+</p>
 🛠️ My Tech Stack
 Languages
 

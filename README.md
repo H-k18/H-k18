@@ -1,7 +1,7 @@
 Hi there, I'm Konduru Harshavardhan 👋
-<p align="center">
+<p align="left">
 <a href="[Link to your deployed portfolio]">
-<img src="profileforwebsites.jpeg" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white"  alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/harshavardhan-konduru-a5428b217/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,7 +17,10 @@ I'm a passionate and dedicated M.Tech student in Computer Science at the Malaviy
 <tr>
 <td valign="top" width="60%">
 
+
+
 👨‍💻 About Me
+
 🎓 I'm currently pursuing my Master of Technology in Computer Science and Information Security.
 
 💡 My areas of interest include Generative AI, Deep Learning, and NLP.
@@ -28,10 +31,9 @@ I'm a passionate and dedicated M.Tech student in Computer Science at the Malaviy
 
 </td>
 <td valign="top" width="40%">
-<p align="right">
-<img src="profileforwebsites.jpeg" alt="Konduru Harshavardhan" width="150px"/>
-</p>
+
 🛠️ My Tech Stack
+
 Languages
 
 <p>
@@ -63,11 +65,13 @@ Developer Tools
 </table>
 
 🚀 My Projects
+
 Temporally-Aware Adaptive Graph Convolutional Network (TAA-GCN): A Deep Learning model for age estimation that achieves state-of-the-art performance by combining facial and skeletal keypoints into a unified graph structure.
 
 Sentiment Analysis - NLP: Developed a model to classify sentiment from social media data, enhancing accuracy with advanced preprocessing and feature engineering techniques like TF-IDF and word embeddings.
 
 💼 Experience
+
 Python Developer Intern | Zettabyte Plus (Dec 2023 - Apr 2024)
 
 Assisted in the development and debugging of various Python-based applications.
@@ -75,13 +79,18 @@ Assisted in the development and debugging of various Python-based applications.
 Collaborated with senior developers, adhering to best coding practices and contributing to team projects.
 
 🏆 Achievements & Certifications
+
+LeetCode Problem Solving : Solved 250+ problems on LeetCode across core data structures and algorithms.
+
 GATE-DA Examination: Secured an All India Rank of 1590.
 
 APEAMCET 2020: Achieved a rank of 950.
 
-Certification: Generative AI & its use cases (E & ICT).
 
-Certification: Machine Learning (Coursera).
+Certification: Introduction to Gen AI & It's use cases.
+
+
+Certification: Generative AI & its use cases (E & ICT).
 
 📫 How to reach me:
 Feel free to connect with me on LinkedIn or send me an email. I'm always open to new opportunities and collaborations!
